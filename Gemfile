@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.2.5'
 
 gem 'will_paginate',           '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
